@@ -1,0 +1,1 @@
+## ¿Cuáles de los ejercicios anteriores pueden resolverse utilizando permutaciones? Identifique aquellos en los cuáles utilizó permutaciones con repetición y sin repetición. Indique además en cada ejercicio qué principio utilizó para resolverlo (Principio multiplicativo, principio aditivo, principio de sustracción)
