@@ -12,4 +12,6 @@ $$
 \underline{011}\,11\,\underline{011}\,1\,\underline{011}\,\underline{011}\,1\,\underline{011}\,
 $$
 
-Notemos que
+Notemos que 
+
+Sincronizando con git
