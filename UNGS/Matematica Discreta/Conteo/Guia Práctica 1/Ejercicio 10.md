@@ -1,4 +1,11 @@
-## ¿Cuántos Números Enteros Mayores Que 99 Y Menores Que 1000 Se Escriben Utilizando Dígitos Distintos? ¿Cuántos De Estos Números Son Impares? #aditivo #Multiplicidad 
+---
+tags:
+  - Adición
+  - Multiplicidad
+status: Done
+---
+
+## ¿Cuántos Números Enteros Mayores Que 99 Y Menores Que 1000 Se Escriben Utilizando Dígitos Distintos? ¿Cuántos De Estos Números Son Impares? #aditivo #Multiplicidad
 
 **Respuesta:**
 
@@ -13,6 +20,7 @@ Tener en cuenta que para cada uno de los dígitos elegidos por posición vamos a
 $$
 |S| = 9 \cdot 9 \cdot 8
 $$
+
 Ahora para calcular cuantos de estos números son impares vamos a hacer un análisis parecido an anterior, definamos al conjunto $M$ cuyos elementos son los números impares.
 
 - Para la primer posición contamos con 9 posibilidades, del 1 al 9
@@ -20,6 +28,7 @@ Ahora para calcular cuantos de estos números son impares vamos a hacer un anál
 - Para la tercer opción originalmente contaríamos con 5 posibilidades, el 1, 3, 5, 7 o 9, ya que son los números impares, pero hay que tener en cuenta que al no admitir repetidos nos quedan 3 posibilidades, debido a que descartamos los números de la primer y segunda posición
 
 entonces por principio de multiplicidad tenemos que:
+
 $$
 |M| = 9 \cdot 9 \cdot 3
 $$
@@ -34,10 +43,13 @@ M_4 &= \text{Números que terminan con el dígito 7}\\
 M_5 &= \text{Números que terminan con el dígito 9}\\
 \end{aligned}
 $$
-Observemos que $M = M_1 \cup M_2 \cup M_3 \cup M_4 \cup M_5$  y que $M_i \cap M_j = \emptyset$ para todo $i \neq j$, por lo que $M_1$,$M_2$,$M_3$,$M_4$  y $M_5$ es una partición de $M$ y que por principio aditivo tenemos
+
+Observemos que $M = M_1 \cup M_2 \cup M_3 \cup M_4 \cup M_5$ y que $M_i \cap M_j = \emptyset$ para todo $i \neq j$, por lo que $M_1$,$M_2$,$M_3$,$M_4$ y $M_5$ es una partición de $M$ y que por principio aditivo tenemos
+
 $$
 |M| = |M_1| + |M_2| + |M_3| + |M_4| + |M_5|
 $$
+
 para calcular $|M_1|$ hacemos el siguiente análisis.
 
 - La ultima posición va a estar siempre ocupada por el dígito 1, esto hay que tenerlo en cuenta porque este número no se va a poder repetir en las demás posiciones
@@ -45,11 +57,15 @@ para calcular $|M_1|$ hacemos el siguiente análisis.
 - La segunda posición originalmente tendría 10 posibles candidatos, del 0 al 9, pero descartamos el número 1 de la ultima posición y también descartamos el número de la segunda posición, por los que nos quedan 8 posibles candidatos.
 
 Entonces por principio multiplicativo tenemos el siguiente calculo.
+
 $$
 |M_1| = 8 \cdot 8 \cdot 1
 $$
+
 La cuenta es la misma para todos los subconjuntos de $M$ ya definidos, por lo que el calculo de $|M|$ nos queda de la siguiente manera:
+
 $$
 |M| = 8\cdot8 \cdot 5
 $$
+
 Entonces la respuesta al cual es la cantidad de números impares del conjunto $S$ es $8\cdot8\cdot5$
