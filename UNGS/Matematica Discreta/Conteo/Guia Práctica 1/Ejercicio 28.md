@@ -1,3 +1,10 @@
+---
+status: Done
+tags:
+  - Combinación
+  - Sustacción
+---
+
 ## En El Instituto De Ciencias De la UNGS Trabajan 14 Investigadores De Computación Y 15 De Matemática
 
 **a)** ¿De cuántas formas se puede formar un equipo de investigación de 11 personas si se puede elegir de entre los investigadores de Computación y de Matemática juntos?
@@ -53,6 +60,7 @@ $$
 |\overline{H}| &= C(29,11) - 455455\\
 \end{aligned}
 $$
+---
 
 **Desarrollo de combinatorios**
 

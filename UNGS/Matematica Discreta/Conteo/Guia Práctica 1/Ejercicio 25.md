@@ -28,10 +28,13 @@ $$
 
 Definamos el conjunto $G$ = {$G_1$, $G_2$ , ... , $G_5$} cuyos elementos son los grupos familiares compuestos por los niños con sus familiares.
 
-Necesitamos calcular las 5-permutaciones de un grupo de 5, por *teorema 2* de permutaciones circulares sabemos que es $4!$, Para cada uno de estos ordenamientos cada uno de los grupos familiares tiene 2 formas de ordenarse, como expliqué al principio.
+Necesitamos calcular las 5-permutaciones de un grupo de 5, por *teorema 2 de permutaciones circulares* sabemos que es $4!$, Para cada uno de estos ordenamientos cada uno de los grupos familiares tiene 2 formas de ordenarse, como se aclaró al principio.
 
 Así que por principio multiplicativo tenemos que la cantidad de formas en sentar a los grupos familiares es:
 
 $$
 4! \cdot 2⁵
 $$
+
+> [!NOTE] Corección
+> Hola Santiago: Está bien la justificación, sólo te corrijo que cuando hablas en un momento que hay que calcular las 5-permutaciones y eso no es correcto, lo que estás calculando es la cantidad de permutaciones en ronda de un conjunto formado por 5 elementos. Hablar de 5-permutaciones está asociado a que sean en hilera.
