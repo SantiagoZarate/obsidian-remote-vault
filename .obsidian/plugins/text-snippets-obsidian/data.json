@@ -1,0 +1,14 @@
+{
+  "snippets_file": "00 : $$ $end$ $nl$\n\\begin{aligned}$nl$\n$nl$\n\\end{aligned}$nl$\n$$ $nl$",
+  "snippets": [
+    "00 : $$ $end$ $nl$\n\\begin{aligned}$nl$\n$nl$\n\\end{aligned}$nl$\n$$ $nl$"
+  ],
+  "endSymbol": "$end$",
+  "newlineSymbol": "$nl$",
+  "stopSymbol": "$tb$",
+  "pasteSymbol": "$pst$",
+  "useTab": true,
+  "useSpace": false,
+  "wordDelimiters": "$()[]{}<>,.!?;:'\"\\/",
+  "isWYSIWYG": true
+}

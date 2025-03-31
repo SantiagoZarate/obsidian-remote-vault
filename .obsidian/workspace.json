@@ -1,0 +1,284 @@
+{
+  "main": {
+    "id": "62972854012ba059",
+    "type": "split",
+    "children": [
+      {
+        "id": "ed31576bb5bef01f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "636d0836ac64d9c5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "UNGS/Matematica Discreta/Conteo/Guia Práctica 2/Ejercicio 24.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ejercicio 24"
+            }
+          },
+          {
+            "id": "bad18241053d846c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "UNGS/Matematica Discreta/Conteo/Guia Práctica 2/Ejercicio 26.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ejercicio 26"
+            }
+          },
+          {
+            "id": "7de9b4655a2523f9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "UNGS/Matematica Discreta/Conteo/Guia Práctica 2/Ejercicio 27.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ejercicio 27"
+            }
+          },
+          {
+            "id": "9cd5a4ef2b6a375a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "UNGS/Matematica Discreta/Conteo/Clase Práctica 2/Ejercicio 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ejercicio 1"
+            }
+          },
+          {
+            "id": "cb9468d6f34cdf6e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "UNGS/Matematica Discreta/Conteo/Clase Práctica 2/Ejercicio 2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ejercicio 2"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d0e268201d9f948d",
+    "type": "split",
+    "children": [
+      {
+        "id": "7f8164cf8afbdafb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f649471e2f797276",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "23791d01fe7ca387",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:Book",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "0c5adcba66dfb0d3",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 260.5
+  },
+  "right": {
+    "id": "5d5d57efabe8af67",
+    "type": "split",
+    "children": [
+      {
+        "id": "9a5f22d20b6f3f3f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "79c1c4193a961a53",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "f412bcc0121445f1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "a6ed48579d0ebc57",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Development/Teams Matcher/DER.svg",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from DER"
+            }
+          },
+          {
+            "id": "30a09c1ca8f396c0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Development/Teams Matcher/DER.svg",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for DER"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 568.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "tldraw:Create new tldrawing": false,
+      "templater-obsidian:Templater": false,
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false
+    }
+  },
+  "active": "cb9468d6f34cdf6e",
+  "lastOpenFiles": [
+    "UNGS/Matematica Discreta/Conteo/Clase Práctica 1/Dudas.md",
+    "UNGS/Matematica Discreta/Conteo/Clase Práctica 2/Ejercicio 2.md",
+    "UNGS/Matematica Discreta/Conteo/Clase Práctica 2/Ejercicio 1.md",
+    "UNGS/Matematica Discreta/Conteo/Guia Práctica 2/Ejercicio 28.md",
+    "UNGS/Matematica Discreta/Conteo/Clase Práctica 2",
+    "UNGS/Matematica Discreta/Conteo/Guia Práctica 2/Ejercicio 13.md",
+    "UNGS/Matematica Discreta/Conteo/Guia Práctica 2/Untitled.md",
+    "UNGS/Matematica Discreta/Conteo/Guia Práctica 2/Ejercicio 27.md",
+    "UNGS/Matematica Discreta/Conteo/Guia Práctica 2/Ejercicio 26.md",
+    "UNGS/Matematica Discreta/Conteo/Guia Práctica 2/Ejercicio 25.md",
+    "UNGS/Matematica Discreta/Conteo/Guia Práctica 2/Ejercicio 24.md",
+    "UNGS/Matematica Discreta/Conteo/Guia Práctica 2/Ejercicio 17.md",
+    "UNGS/Matematica Discreta/Conteo/Guia Práctica 2/Ejercicio 20.md",
+    "UNGS/Matematica Discreta/Conteo/Guia Práctica 2/Ejercicio 21.md",
+    "UNGS/Matematica Discreta/Conteo/Guia Práctica 2/Ejercicio 22.md",
+    "UNGS/Matematica Discreta/Conteo/Guia Práctica 2/Ejercicio 23.md",
+    "UNGS/Matematica Discreta/Conteo/Guia Práctica 2/Ejercicio 9.md",
+    "UNGS/Matematica Discreta/Dataview.md",
+    "UNGS/Matematica Discreta/Conteo/Guia Práctica 2/Ejercicio 19.md",
+    "UNGS/Matematica Discreta/Conteo/Guia Práctica 2/Ejercicio 18.md",
+    "UNGS/Matematica Discreta/Conteo/Guia Práctica 2/Ejercicio 16.md",
+    "UNGS/Matematica Discreta/Conteo/Guia Práctica 2/Ejercicio 15.md",
+    "UNGS/Matematica Discreta/Conteo/Guia Práctica 2/Ejercicio 14.md",
+    "Inglés/Ejercicio 1.md",
+    "Inglés/New Vocab.md",
+    "UNGS/Matematica Discreta/Conteo/Entrega 4",
+    "Development/Commands/Linux Commands.md",
+    "Development/Commands",
+    "Books/Designing Data-Intensive Applications - Martin Kleppmann.md",
+    "Books/ddia.pdf",
+    "Untitled.pdf",
+    "Books/ddiaa.epub",
+    "Pasted image 20250318203250.png",
+    "Pasted image 20250318191000.png",
+    "Books/ddia.epub",
+    "Books",
+    "images/icons/97c99b0c-107a-49cf-a188-05d99bdd1a32-tldrawFile.png",
+    "images/icons",
+    "images",
+    "Development/Untitled.canvas",
+    "Development/Teams Matcher/DER.svg",
+    "Development/Teams Matcher/Architecht Resourse COlocation View.svg",
+    "Development/Teams Matcher/Use Cases Diagram.svg",
+    "remote-blog/publish/attachments/vercel-project-id.png",
+    "remote-blog/publish/attachments/vercel-create-token.png",
+    "remote-blog/publish/attachments/vercel-account-id.png",
+    "remote-blog/publish/attachments/publish-dir-yml.png",
+    "Untitled.canvas"
+  ]
+}

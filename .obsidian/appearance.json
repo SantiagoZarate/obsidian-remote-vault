@@ -1,0 +1,12 @@
+{
+  "interfaceFontFamily": "Geist",
+  "theme": "obsidian",
+  "cssTheme": "Minimal",
+  "accentColor": "",
+  "textFontFamily": "Geist",
+  "baseFontSize": 16,
+  "showRibbon": false,
+  "enabledCssSnippets": [
+    "justify"
+  ]
+}
