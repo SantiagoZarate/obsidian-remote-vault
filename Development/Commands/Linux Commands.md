@@ -114,3 +114,17 @@ cat /etc/os-release
 hostnamectl
 ```
 ---
+
+Crear certificados SSL por 3 meses
+
+**Install certbot cli client**
+
+```bash
+sudo install certbot python3-certbot-nginx -y
+```
+
+**Generar certificado para el dominio**
+
+```bash
+sudo certbot --nginx -d <domain-name>
+```
