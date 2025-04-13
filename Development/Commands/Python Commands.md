@@ -49,3 +49,21 @@ install specific version
 ```bash
 pyenv install 3.x.x
 ```
+---
+
+## Solucionar Error 'src' not Found
+
+Crear archivo .env
+
+poner esto adentro
+
+```bash
+export PYTHONPATH="$PYTHONPATH:$PWD"
+```
+
+Ejecutar estos comandos
+
+```bash
+set -a
+source .env
+```

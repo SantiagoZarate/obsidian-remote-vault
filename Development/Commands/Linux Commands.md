@@ -128,3 +128,23 @@ sudo install certbot python3-certbot-nginx -y
 ```bash
 sudo certbot --nginx -d <domain-name>
 ```
+
+---
+
+Crear nuevo usuario
+
+```bash
+adduser -m <user-name>
+```
+
+Asignar bash shell, por defecto usa sh
+
+```bash
+chsh -s /bin/bash <user-name>
+```
+
+iniciar sesión como el nuevo usuario
+
+```bash
+su - <user-name>
+```
