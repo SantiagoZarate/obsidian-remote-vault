@@ -8,63 +8,91 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1298ac41ec5f9155",
+            "id": "6fcaed635278b308",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UNGS/Matematica Discreta/Conteo/Enunciados de Clase/Ejercicio 52.md",
+                "file": "UNGS/Matematica Discreta/Conteo/Parciales/2024 - 1º Sem Noche/Ejercicio 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ejercicio 52"
+              "title": "Ejercicio 1"
             }
           },
           {
-            "id": "7efd87a19d5e3d85",
+            "id": "d42830eb2da48364",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UNGS/Matematica Discreta/Dataview.md",
+                "file": "UNGS/Matematica Discreta/Conteo/Parciales/2024 - 1º Sem Noche/Ejercicio 2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dataview"
+              "title": "Ejercicio 2"
             }
           },
           {
-            "id": "467cf2ad6babfab3",
+            "id": "dde686f78fdadbaa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UNGS/Matematica Discreta/Ejercicios Combinatoria.md",
+                "file": "UNGS/Matematica Discreta/Conteo/Parciales/2024 - 1º Sem Noche/Ejercicio 3.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ejercicios Combinatoria"
+              "title": "Ejercicio 3"
             }
           },
           {
-            "id": "efbae70fd4930275",
+            "id": "a51598b4a97560c3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UNGS/Matematica Discreta/Conteo/Ejercicios Repaso/Ejercicio 7.md",
+                "file": "UNGS/Matematica Discreta/Conteo/Parciales/2024 - 1º Sem Noche Req/Ejercicio 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ejercicio 7"
+              "title": "Ejercicio 1"
+            }
+          },
+          {
+            "id": "c94d38d5a6e90eb0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "UNGS/Matematica Discreta/Conteo/Parciales/2024 - 1º Sem Noche Req/Ejercicio 2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ejercicio 2"
+            }
+          },
+          {
+            "id": "1ec8b5a84f6b9cac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "UNGS/Matematica Discreta/Conteo/Parciales/2024 - 1º Sem Noche Req/Ejercicio 3.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ejercicio 3"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -121,7 +149,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 242.5
+    "width": 320.5
   },
   "right": {
     "id": "5d5d57efabe8af67",
@@ -216,45 +244,45 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "467cf2ad6babfab3",
+  "active": "1ec8b5a84f6b9cac",
   "lastOpenFiles": [
-    "UNGS/Matematica Discreta/Ejercicios Combinatoria.md",
-    "UNGS/Matematica Discreta/Ejercicios Combinatoria.md",
-    "UNGS/Matematica Discreta/Conteo/Ejercicios Repaso/Ejercicio 7.md",
+    "UNGS/Matematica Discreta/Conteo/Parciales/2024 - 1º Sem Noche Req/Ejercicio 2.md",
+    "UNGS/Matematica Discreta/Conteo/Parciales/2024 - 1º Sem Noche Req/Ejercicio 3.md",
+    "UNGS/Matematica Discreta/Conteo/Parciales/2024 - 1º Sem Noche Req/Ejercicio 1.md",
+    "UNGS/Matematica Discreta/Conteo/Parciales/2024 - 1º Sem Noche/Ejercicio 4.md",
+    "UNGS/Matematica Discreta/Conteo/Parciales/2024 - 1º Sem Noche Req",
+    "UNGS/Matematica Discreta/Conteo/Parciales/2024 - 1º Sem Noche/Ejercicio 3.md",
+    "UNGS/Matematica Discreta/Conteo/Parciales/2024 - 1º Sem Noche/Ejercicio 2.md",
+    "UNGS/Matematica Discreta/Conteo/Parciales/2024 - 1º Sem Noche/Ejercicio 1.md",
+    "UNGS/Matematica Discreta/Conteo/Parciales/2024 - 1º Sem Req/Ejercicio 3.md",
+    "UNGS/Matematica Discreta/Conteo/Parciales/2024 - 1º Sem Noche",
+    "UNGS/Matematica Discreta/Conteo/Parciales/2024 - 1º Sem Req/Ejercicio 2.md",
+    "UNGS/Matematica Discreta/Conteo/Parciales/2024 - 1º Sem Req/Ejercicio 1.md",
+    "UNGS/Matematica Discreta/Conteo/Parciales/2024 - 1º Sem/Ejercicio 4.md",
+    "UNGS/Matematica Discreta/Conteo/Parciales/2024 - 1º Sem Req",
+    "UNGS/Matematica Discreta/Conteo/Parciales/2024 - 1º Sem/Ejercicio 3.md",
+    "UNGS/Matematica Discreta/Conteo/Parciales/2024 - 1º Sem/Ejercicio 2.md",
+    "UNGS/Matematica Discreta/Conteo/Parciales/2024 - 1º Sem/Ejercicio 1.md",
     "UNGS/Matematica Discreta/Conteo/Enunciados de Clase/Ejercicio 52.md",
+    "UNGS/Matematica Discreta/Conteo/Parciales/2024 - 1º Sem",
+    "UNGS/Matematica Discreta/Conteo/Parciales",
     "UNGS/Matematica Discreta/Dataview.md",
+    "Development/Commands/CSharp Commands.md",
+    "UNGS/Matematica Discreta/Conteo/Ejercicios Repaso/Ejercicio 7.md",
+    "UNGS/Matematica Discreta/Conteo/Clase Práctica 5/Ejercicio 4.md",
+    "UNGS/Matematica Discreta/Ejercicios Combinatoria.md",
+    "UNGS/Matematica Discreta/Conteo/Clase Práctica 7/Ejercicio 7.md",
+    "UNGS/Matematica Discreta/Conteo/Clase Práctica 7",
+    "UNGS/Matematica Discreta/Conteo/Clase Práctica 5/Ejercicio 3.md",
+    "UNGS/Matematica Discreta/Conteo/Clase Práctica 5/Ejercicio 2.md",
+    "UNGS/Matematica Discreta/Conteo/Clase Práctica 5/Ejercicio 1.md",
+    "UNGS/Matematica Discreta/Conteo/Clase Práctica 5",
     "UNGS/Matematica Discreta/Conteo/Entrega 5/Ejercicio 1.md",
     "UNGS/Matematica Discreta/Conteo/Práctica/Guia de combinatoria - Práctica 1.md",
-    "UNGS/Matematica Discreta/Conteo/Ejercicios Repaso/Ejercicio 1.md",
-    "UNGS/Matematica Discreta/Conteo/Guía Práctica 3/Ejercicio 17.md",
-    "UNGS/Matematica Discreta/Conteo/Guía Práctica 3/Ejercicio 18.md",
-    "UNGS/Matematica Discreta/Conteo/Guía Práctica 3/Ejercicio 19.md",
-    "UNGS/Matematica Discreta/Conteo/Guía Práctica 3/Ejercicio 20.md",
-    "UNGS/Matematica Discreta/Conteo/Guía Práctica 3/Ejercicio 21.md",
-    "UNGS/Matematica Discreta/Conteo/Guía Práctica 3/Ejercicio 22.md",
-    "UNGS/Matematica Discreta/Conteo/Guía Práctica 3/Ejercicio 23.md",
-    "UNGS/Matematica Discreta/Conteo/Guía Práctica 3/Ejercicio 24.md",
-    "UNGS/Matematica Discreta/Conteo/Guía Práctica 3/Ejercicio 25.md",
-    "UNGS/Matematica Discreta/Conteo/Guía Práctica 3/Ejercicio 28.md",
     "UNGS/Matematica Discreta/Conteo/Ejercicios Repaso",
-    "UNGS/Matematica Discreta/Conteo/Guía Práctica 3/Ejercicio video 1.md",
-    "UNGS/Matematica Discreta/Conteo/Guía Práctica 3/Ejercicio video 2.md",
-    "UNGS/Matematica Discreta/Conteo/Práctica/Enunciados de ejercicios de clase.md",
-    "UNGS/Matematica Discreta/Conteo/Clase Práctica 4/Ejercicio 3.md",
-    "UNGS/Matematica Discreta/Conteo/Clase Práctica 4/Ejercicio 4.md",
-    "UNGS/Matematica Discreta/Conteo/Entrega 5 - 2021/Ejercicio 1.md",
-    "UNGS/Matematica Discreta/Conteo/Práctica/Enunciado de clase 56.md",
-    "UNGS/Matematica Discreta/Conteo/Guía Práctica 3/Ejercicio 13.md",
     "UNGS/Matematica Discreta/Conteo/Enunciados de Clase",
     "UNGS/Matematica Discreta/Conteo/Entrega 5 - 2021",
-    "UNGS/Matematica Discreta/Conteo/Entrega 5",
-    "UNGS/Matematica Discreta/Conteo/Clase Práctica 4",
     "docs/python-tp/Diagrama-basico.svg",
-    "docs/python-tp",
-    "docs",
-    "docs",
-    "docs",
-    "docs",
     "Pasted image 20250318203250.png",
     "Pasted image 20250318191000.png",
     "images/icons/97c99b0c-107a-49cf-a188-05d99bdd1a32-tldrawFile.png",

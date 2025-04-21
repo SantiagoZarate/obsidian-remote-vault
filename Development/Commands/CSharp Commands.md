@@ -7,3 +7,8 @@ dotnet aspnet-codegenerator controller -name TodoItemsController -async -api -m 
 ```
 
 ---
+## Start a New Project
+
+```bash
+dotnet new webapi --name MyFirstWebAPIProject -f net8.0
+```
