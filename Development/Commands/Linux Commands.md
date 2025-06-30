@@ -1,4 +1,4 @@
-**POSTGRES**
+**POSTGRES****
 su - postgres
 
 **LINUX**
@@ -148,3 +148,7 @@ iniciar sesión como el nuevo usuario
 ```bash
 su - <user-name>
 ```
+
+Ver lista de archivos mas pesados no siendo ignorados
+
+rg -uuu --ignore-file .gitignore --files --sort path . | xargs ls -lh | awk '{print $5,$9}' | sort -hrk 1 | head -n 20

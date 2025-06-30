@@ -7,6 +7,8 @@
   "baseFontSize": 16,
   "showRibbon": false,
   "enabledCssSnippets": [
-    "justify"
+    "justify",
+    "centerTable",
+    "centerSvg"
   ]
 }
