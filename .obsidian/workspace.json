@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UNGS/Laboratorio de Software/Presentación.md",
+                "file": "Development/Guides/Vercel Deploy PNPM Monorepo.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Presentación"
+              "title": "Vercel Deploy PNPM Monorepo"
             }
           }
         ]
@@ -176,8 +176,10 @@
   },
   "active": "a8fe829eb15fd89a",
   "lastOpenFiles": [
-    "Development/Commands/Linux Commands.md",
     "UNGS/Laboratorio de Software/Presentación.md",
+    "Development/Guides/Vercel Deploy PNPM Monorepo.md",
+    "Development/Guides",
+    "Development/Commands/Linux Commands.md",
     "UNGS/Matematica Discreta/Grafos/Parciales/Parcial mio/Diagrama 1.1.svg",
     "UNGS/Matematica Discreta/Grafos/Parciales/Parcial mio/Lo que me acuerdo del parcial.md",
     "UNGS/Matematica Discreta/Grafos/Parciales/Parcial 4/Untitled Diagram.svg",
@@ -213,7 +215,6 @@
     "UNGS/Matematica Discreta/Grafos/Parciales/Parcial 1/Ejercicio 5.md",
     "UNGS/Matematica Discreta/Grafos/Parciales/Parcial 1/Ejercicio 4.md",
     "UNGS/Matematica Discreta/Ejercicios Combinatoria.md",
-    "UNGS/Matematica Discreta/Grafos/Parciales/Parcial 2/Ejercicio 4.md",
     "UNGS/Matematica Discreta/Grafos/Parciales/Parcial 3",
     "UNGS/Matematica Discreta/Grafos/Parciales/Parcial 2",
     "UNGS/Matematica Discreta/Grafos/Parciales/Parcial 1",
@@ -221,7 +222,6 @@
     "UNGS/Matematica Discreta/Grafos/Práctica 6",
     "UNGS/Matematica Discreta/Grafos/Definiciones",
     "Books/AI Engineering.pdf",
-    "Development/Floreria",
     "Development/Untitled.canvas",
     "Untitled.canvas"
   ]
