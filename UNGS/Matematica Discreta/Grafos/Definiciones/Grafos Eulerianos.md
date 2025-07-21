@@ -1,4 +1,4 @@
-Si $G$ es un grafo disconexo y por lo menos dos componentes conexas tienen aristas entonces el grafo no puede tener un recorrido eulereano
+Si $G$ es un [[Grafo Disconexo]] y por lo menos dos componentes conexas tienen aristas entonces el grafo no puede tener un [[Recorrido Eulereano]]
 
 ![[Diagrama Grafos Euleriano 1.1.svg]]
 

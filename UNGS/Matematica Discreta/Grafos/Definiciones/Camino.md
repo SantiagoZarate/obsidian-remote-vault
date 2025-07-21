@@ -1,6 +1,6 @@
 ## Definición
 
-Un camino es un grafo simple cuyos vértices pueden ordenarse en hilera de forma tal que dos vértices son vecinos si y solo sí son consecutivos en ese orden.
+Un camino es un [[Grafo simple]] cuyos vértices pueden ordenarse en hilera de forma tal que dos vértices son vecinos si y solo sí son consecutivos en ese orden.
 
 Ejemplo:
 

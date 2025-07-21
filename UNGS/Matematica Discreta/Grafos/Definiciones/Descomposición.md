@@ -1,6 +1,6 @@
 ## Definición
 
-Una descomposición de un grafo $G$ es una lista de subgrafos de $G$ tal que cada arista de $G$ pertenece a solo un subgrafo de la lista.
+Una descomposición de un grafo $G$ es una lista de [[Subgrafo]] de $G$ tal que cada arista de $G$ pertenece a solo un subgrafo de la lista.
 
 Seal el grafo $G$
 
