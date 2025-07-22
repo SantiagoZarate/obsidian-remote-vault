@@ -6,6 +6,8 @@ Si $G$ es un [[Grafo Disconexo]] y por lo menos dos componentes conexas tienen a
 
 Sea $G$ un grafo. Un camino en $G$ es *maximal* si no está contenido en otro camino en $G$ más largo.
 
+Un grafo es euleriano si contiene un recorrido euleriano cerrado.
+
 **Lema 1** Si todo vértice de un grafo $G$ tiene grado al menos 2, entonces $G$ contiene un ciclo, es decir
 
 $\delta(G) = 2$, $G$ contiene un ciclo
