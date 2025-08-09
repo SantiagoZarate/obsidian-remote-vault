@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "471354f1b8e645f1",
+        "id": "82a03364b223d56b",
         "type": "tabs",
         "children": [
           {
-            "id": "a8fe829eb15fd89a",
+            "id": "ef332e8683e8ec80",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Development/Guides/Vercel Deploy PNPM Monorepo.md",
+                "file": "Development/Guides/Manage Cloudflare PEM key.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Vercel Deploy PNPM Monorepo"
+              "title": "Manage Cloudflare PEM key"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:Principio-Palomar",
+                "query": "tag:Inclusión-Exclusión",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 342.5,
-    "collapsed": true
+    "width": 342.5
   },
   "right": {
     "id": "5d5d57efabe8af67",
@@ -174,54 +173,54 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "a8fe829eb15fd89a",
+  "active": "ef332e8683e8ec80",
   "lastOpenFiles": [
-    "UNGS/Laboratorio de Software/Presentación.md",
+    "Untitled.md",
+    "Development/Guides/Manage Cloudflare PEM key.md",
+    "Development/Guides/Vercel Github Action monorepo deploy.md",
+    "Development/Guides/VPS and subdomains.md",
     "Development/Guides/Vercel Deploy PNPM Monorepo.md",
+    "Development/Guides/Remove password authentication in a linux vps.md",
+    "Development/Tooling.md",
+    "Books/Codigo Sostenible.md",
+    "Books/codigo-sostenible.pdf",
+    "Books/Dataview.md",
+    "UNGS/Finales/Julio 2025/Ejercicio 1.md",
+    "UNGS/Finales/Febrero 2025/Ejercicio 2.md",
+    "UNGS/Finales/Febrero 2025/Ejercicio 1.md",
+    "UNGS/Matematica Discreta/Conteo/Guía Práctica 3/Ejercicio 17.md",
+    "UNGS/Finales/Mayo 2025/Ejercicio 1.md",
+    "UNGS/Finales/Mayo 2025",
+    "UNGS/Finales/Julio 2025/Ejercicio 4.md",
+    "UNGS/Finales/Julio 2025/Ejercicio 3.md",
+    "UNGS/Finales/Julio 2025/Ejercicio 2.md",
+    "UNGS/Finales/Julio 2025",
+    "UNGS/Matematica Discreta/Conteo/Guía Práctica 3/Ejercicio 14.md",
+    "UNGS/Matematica Discreta/Conteo/Guía Práctica 3/Ejercicio 13.md",
+    "UNGS/Matematica Discreta/Conteo/Guía Práctica 3/Ejercicio 12.md",
+    "UNGS/Matematica Discreta/Conteo/Guía Práctica 3/Ejercicio 11.md",
+    "UNGS/Matematica Discreta/Conteo/Guía Práctica 3/Ejercicio 10.md",
+    "UNGS/Matematica Discreta/Conteo/Guía Práctica 3/Ejercicio 8.md",
+    "UNGS/Matematica Discreta/Conteo/Guía Práctica 3/Ejercicio 6.md",
+    "UNGS/Matematica Discreta/Conteo/Guía Práctica 3/Ejercicio 4.md",
+    "UNGS/Matematica Discreta/Conteo/Guía Práctica 3/Ejercicio 2.md",
+    "UNGS/Finales/Febrero 2025",
+    "UNGS/Finales",
     "Development/Guides",
-    "Development/Commands/Linux Commands.md",
     "UNGS/Matematica Discreta/Grafos/Parciales/Parcial mio/Diagrama 1.1.svg",
-    "UNGS/Matematica Discreta/Grafos/Parciales/Parcial mio/Lo que me acuerdo del parcial.md",
     "UNGS/Matematica Discreta/Grafos/Parciales/Parcial 4/Untitled Diagram.svg",
     "UNGS/Matematica Discreta/Grafos/Parciales/Parcial mio",
     "UNGS/Matematica Discreta/Grafos/Diagramas/Diagrama Parcial 4.1.1.svg",
-    "UNGS/Matematica Discreta/Grafos/Parciales/Parcial 4/Ejercicio 2.md",
-    "UNGS/Matematica Discreta/Grafos/Parciales/Parcial 4/Ejercicio 1.md",
     "UNGS/Matematica Discreta/Grafos/Diagramas/Diagrama Parcial 4.1.3.svg",
-    "UNGS/Matematica Discreta/Conteo/Ejercicios Repaso/Ejercicio 1.md",
     "UNGS/Matematica Discreta/Grafos/Diagramas/Diagrama Parcial 4.1.svg",
     "UNGS/Matematica Discreta/Grafos/Diagramas/Diagrama Parcial 4.1.2.svg",
     "UNGS/Matematica Discreta/Grafos/Diagramas/Diagrama Parcial 5.10.svg",
     "UNGS/Matematica Discreta/Grafos/Diagramas/Diagrama Subgrafo 1.1.svg",
     "UNGS/Matematica Discreta/Grafos/Diagramas/Diagrama 1.svg",
     "UNGS/Matematica Discreta/Grafos/Diagramas/Diagrama 2.svg",
-    "UNGS/Matematica Discreta/Grafos/Parciales/Parcial 1/Untitled Diagram.svg.md",
-    "UNGS/Matematica Discreta/Grafos/Práctica 5/Ejercicio 1.md",
-    "UNGS/Matematica Discreta/Conteo/Entrega 4/Untitled.md",
-    "UNGS/Matematica Discreta/Conteo/Guia Práctica 2/Untitled.md",
-    "UNGS/Matematica Discreta/Grafos/Práctica 6/Ejercicio 1.md",
-    "UNGS/Matematica Discreta/Grafos/Parciales/Parcial 1/Ejercicio 1.md",
-    "UNGS/Matematica Discreta/Grafos/Parciales/Parcial 2/Ejercicio 1.md",
-    "UNGS/Matematica Discreta/Grafos/Parciales/Parcial 3/Ejercicio 1.md",
-    "UNGS/Matematica Discreta/Grafos/Parciales/Parcial 3/Ejercicio 3.md",
-    "UNGS/Matematica Discreta/Grafos/Parciales/Repaso - Verdadero o Falso.md",
-    "UNGS/Matematica Discreta/Dataview.md",
-    "UNGS/Matematica Discreta/Grafos/Entrega 2/Ejercicio 1.md",
-    "UNGS/Matematica Discreta/Grafos/Definiciones/Untitled.md",
     "UNGS/Matematica Discreta/Grafos/Parciales/Parcial 4",
-    "UNGS/Matematica Discreta/Grafos/Parciales/Parcial 3/Ejercicio 2.md",
-    "UNGS/Matematica Discreta/Grafos/Parciales/Parcial 1/Ejercicio 2.md",
-    "UNGS/Matematica Discreta/Grafos/Parciales/Parcial 1/Ejercicio 3.md",
-    "UNGS/Matematica Discreta/Grafos/Parciales/Parcial 1/Ejercicio 5.md",
-    "UNGS/Matematica Discreta/Grafos/Parciales/Parcial 1/Ejercicio 4.md",
-    "UNGS/Matematica Discreta/Ejercicios Combinatoria.md",
     "UNGS/Matematica Discreta/Grafos/Parciales/Parcial 3",
     "UNGS/Matematica Discreta/Grafos/Parciales/Parcial 2",
-    "UNGS/Matematica Discreta/Grafos/Parciales/Parcial 1",
-    "UNGS/Matematica Discreta/Grafos/Parciales",
-    "UNGS/Matematica Discreta/Grafos/Práctica 6",
-    "UNGS/Matematica Discreta/Grafos/Definiciones",
-    "Books/AI Engineering.pdf",
     "Development/Untitled.canvas",
     "Untitled.canvas"
   ]

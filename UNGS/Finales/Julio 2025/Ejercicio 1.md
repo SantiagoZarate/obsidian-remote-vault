@@ -12,3 +12,5 @@ Para personalizarlo, tiene pelo, barba y bigotes, de dos colores distintos, y qu
 (b) ¿De cuántas formas Amadeo puede personalizar su metegol con la condición de que al menos un mediocampista granate sea pelado y al menos uno de los seis delanteros no tenga bigote?
 
 **Respuestas:**
+
+Observemos que tenemos 11 jugadores por equipo, a los 
