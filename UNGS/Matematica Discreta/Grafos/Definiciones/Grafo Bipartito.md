@@ -1,6 +1,6 @@
 ## Definición
 
-Un grafo $G$ se dice bipartito si $V(G)$ es la unión disjunta de 2 conjuntos independientes
+Un grafo $G$ se dice bipartito si $V(G)$ es la unión disjunta de 2 [[Conjunto Independiente]]
 
 ## Observaciones
 

@@ -1,10 +1,12 @@
-Si $G$ es un grafo disconexo y por lo menos dos componentes conexas tienen aristas entonces el grafo no puede tener un recorrido eulereano
+Si $G$ es un [[Grafo Disconexo]] y por lo menos dos componentes conexas tienen aristas entonces el grafo no puede tener un [[Recorrido Eulereano]]
 
 ![[Diagrama Grafos Euleriano 1.1.svg]]
 
 ## Definición 2
 
 Sea $G$ un grafo. Un camino en $G$ es *maximal* si no está contenido en otro camino en $G$ más largo.
+
+Un grafo es euleriano si contiene un recorrido euleriano cerrado.
 
 **Lema 1** Si todo vértice de un grafo $G$ tiene grado al menos 2, entonces $G$ contiene un ciclo, es decir
 
